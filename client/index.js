@@ -27,6 +27,7 @@ function beforeLogin(event) {
     $("#main").show();
     $("#about").show();
     $("#register-form").hide();
+    $("#go-to-listtodo").hide();
     $("#go-to-addtodo").hide()
     $("#add-form-todo").hide();
      $("#edit-form-todo").hide();
