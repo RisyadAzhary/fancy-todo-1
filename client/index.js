@@ -50,14 +50,13 @@ function beforeLogin(event) {
     });
 }
 
-function afterRegister(event) {
-    event.preventDefault()
+function afterRegister() {
   $("#hero").hide();
   $("#main").hide();
   $("#about").hide();
   $("#login-form").show();
   $("#register-form").hide();
-  $("#navbar-logout").hide();
+  $("#header").hide();
 }
 
 function afterLogin(event) {
