@@ -61,8 +61,8 @@ function afterRegister() {
 }
 
 function afterLogin(event) {
-    fetchTodo()
     fetchdoneTodo()
+    fetchTodo()
     trendingMovie()
     $("#content-done").show()
     $("#content-undone").show()
