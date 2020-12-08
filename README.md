@@ -1,7 +1,8 @@
 # fancy-todo
 
- client : https://portofolio-fancytodo-294305.web.app/
-server : https://fancytodobyrisyad.herokuapp.com/
+ - client : https://portofolio-fancytodo-294305.web.app
+ 
+ - server : https://fancytodobyrisyad.herokuapp.com/
 
 aplikasi Todo menggunakan Client-server model dengan spesifikasi sebagai berikut:
 - [API Documentation](https://github.com/RisyadAzhary/fancy-todo-1/blob/main/documentation.md) yang meliputi : URLs, HTTP method, request, response (success dan error case)
